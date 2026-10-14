@@ -33,3 +33,7 @@ Browser mengirim permintaan langsung ke API HTTPS `ipwho.is`. Tidak ada API key 
 ## Verifikasi
 
 `node --check dist/app.js` memeriksa sintaks JavaScript. Versi awal telah diuji di browser untuk IP otomatis, lookup IPv4/IPv6, input tidak valid, serta tampilan ponsel.
+
+## Regression QA
+
+Jalankan `node tests/qa.mjs` (Node.js 18+). Tidak memerlukan instalasi dependensi atau akses jaringan. Lihat `QA.md` untuk cakupan tes browser nyata dan batas verifikasi.
