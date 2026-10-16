@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="IP Lens">
+  <title>IP Lens</title>
+  <rect width="512" height="512" rx="120" fill="#202b25"/>
+  <g fill="none" stroke="#d6f685" stroke-linecap="round">
+    <circle cx="228" cy="228" r="130" stroke-width="22"/>
+    <circle cx="228" cy="228" r="74" stroke-width="22"/>
+    <path d="M322 322l88 88" stroke-width="30"/>
+  </g>
+  <circle cx="228" cy="228" r="22" fill="#d6f685"/>
+</svg>
